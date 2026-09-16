@@ -24,6 +24,24 @@ Designed and implemented third-party integration workflows supporting telecom ma
 * Developed **dynamic PDF and Excel generation** for NI / Nokia Integration workflows.
 * Implemented **XML-based contract data parsing** for P20 integrations.
 
+### 🤖 IntelliReview — AI Code Review Assistant
+
+**Java 17 · Spring Boot · PostgreSQL · AI**
+
+Personal project exploring AI-assisted code review and developer productivity.
+
+* Built a Spring Boot backend for code review workflows.
+* Experimented with AI-assisted analysis and review suggestions.
+
+### 📧 InboxIQ — Email Classification System
+
+**Java · Spring Boot · PostgreSQL · Smile ML**
+
+Personal project exploring machine-learning based email classification.
+
+* Built email ingestion and classification workflows.
+* Experimented with k-NN classification using Smile ML.
+
 ## 👨‍💻 Leadership
 
 Mentor and guide a team of **3 engineers**, contributing to:
